@@ -1,0 +1,14 @@
+## Interface: 11305
+## Title: Duty
+## Author: prodhe
+## Version: 1.0.0
+## Notes: Assign duties to raid members.
+## SavedVariables: DUTYDB
+
+core.lua
+duty.lua
+slave.lua
+comms.lua
+config.lua
+bindings.xml
+init.lua

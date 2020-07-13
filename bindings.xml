@@ -1,0 +1,7 @@
+<Bindings>
+  <Binding name="DUTY_GUI" header="DUTY" runOnUp="true">
+    if (keystate == "up") then
+      KeyBinding_ToggleDuty()
+	end
+  </Binding>
+</Bindings>
