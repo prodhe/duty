@@ -52,7 +52,6 @@ function core:Init(event, name)
 	core:Debug("Init: Create Duty module")
 	core.Duty:Create()
 	core.Duty:SetOpacity()
-	core.Duty:Toggle()
 	core.DutySlave:Create()
 	core.DutySlave:SetOpacity()
 
